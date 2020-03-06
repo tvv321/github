@@ -1,0 +1,52 @@
+html {
+    background-image: url(https://cdn.goha.info/gh/f/Mq/Bl/gOcaYKkpsA.jpg);
+    background-size:cover;
+    width:auto;
+    height:auto;
+    background-repeat:no-repeat;
+    font-family:cursive;
+    font-style:
+}
+.text1{
+    text-align:center;
+    color:black;
+}
+h1 {
+    color: black;
+font-weight: 900;
+font-stretch: expanded;
+font-style: oblique;
+font-family: "Arial";
+font-size: xx-large;
+
+
+
+
+
+
+}
+
+p {
+    color: black;
+font-weight: 700;
+font-stretch:expanded;
+
+font-family: "Times New Roman";
+font-size: medium;
+
+
+
+
+
+
+} 
+
+li { color: deeppink;
+font-weight: 800;
+font-stretch: normal;
+font-style: oblique;
+font-family: "Verdana";
+font-size: medium;
+
+
+}
